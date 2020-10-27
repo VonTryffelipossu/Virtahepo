@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<title>Virtahepo U+1F99B</title>
+<link rel="Tyylittely" href="Tyyli.css">
+</head>
+<body>
+<h1>Virtahevot ovat upeita</h1>
+<p>Flodhäst (Hippopotamus amphibius) är ett däggdjur som lever i Afrika, främst söder om Sahara. Flodhästar lever i flock och tillbringar större delen av sin tid stående i vatten. Den kan vara aggressiv och farlig för människan. (från wikipedia.org)</p>
+<div class="raja"></div>
+<ol>
+<li>ordered list 1
+<li>ordered list 2
+</ol>
+<ul>
+<li>unordered list 1
+<li>unordered list 2
+</ul>
+</body>
+</html>
